@@ -34,9 +34,18 @@ Mentioned willingness to gain experience and learn
 
 Used a structured and professional format
 
+
+📋 Social Media Safety Checklist (Prevention Guide)
+
+✔️ Dos (Stay Safe Online)
+
+❌ Don’ts
+
 🛠️ Tools & Platforms Used
 
-Email writing (Gmail/Outlook)
+Email writing (Canva)
+
+Checklist(.txt file)
 
 Internet resources for guidelines
 
