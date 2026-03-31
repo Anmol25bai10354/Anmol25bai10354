@@ -1,12 +1,12 @@
 
 
-📊 Digital Literacy Infographic
+ Digital Literacy Infographic
 
-📌 Project Overview
+ Project Overview
 
 This project presents an infographic on Digital Literacy, aimed at spreading awareness about essential digital skills required in today’s technology-driven world. The infographic simplifies key concepts and highlights the importance of being digitally informed and responsible.
 
-🎯 Objectives
+Objectives
 
 #To understand the concept of digital literacy
 
@@ -16,7 +16,7 @@ This project presents an infographic on Digital Literacy, aimed at spreading awa
 
 #To present information in a visually engaging format
 
-🛠️ Tools Used
+ Tools Used
 
 Canva (for designing infographic)
 
@@ -24,7 +24,7 @@ Google (for research)
 
 Laptop/Desktop
 
-📁 File Details
+ File Details
 
 Format: Image/PDF
 
