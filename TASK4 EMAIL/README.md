@@ -1,10 +1,10 @@
-📧 Digital Literacy Project: Professional Communication & Social Media Awareness
+Digital Literacy Project: Professional Communication & Social Media Awareness
 
-📌 Project Overview
+ Project Overview
 
 This task focuses on developing digital communication skills and understanding responsible social media usage. It includes writing formal emails for professional purposes and creating a checklist of dos and don’ts for social media.
 
-🎯 Objectives
+ Objectives
 
 1.To learn formal email writing skills
 
@@ -14,9 +14,9 @@ This task focuses on developing digital communication skills and understanding r
 
 4.To enhance clarity and tone in digital communication
 
-🧠 Tasks Completed
+ Tasks Completed
 
-📧 Formal Email Writing
+Formal Email Writing
 
 1. Email to Professor
 
@@ -35,13 +35,13 @@ Mentioned willingness to gain experience and learn
 Used a structured and professional format
 
 
-📋 Social Media Safety Checklist (Prevention Guide)
+ Social Media Safety Checklist (Prevention Guide)
 
-✔️ Dos (Stay Safe Online)
+ Dos (Stay Safe Online)
 
-❌ Don’ts
+ Don’ts
 
-🛠️ Tools & Platforms Used
+ Tools & Platforms Used
 
 Email writing (Canva)
 
@@ -51,7 +51,7 @@ Internet resources for guidelines
 
 Laptop/Desktop
 
-🚀 Learning Outcomes
+ Learning Outcomes
 
 Learned how to write formal and professional emails
 
