@@ -1,10 +1,10 @@
-🌐 Digital Literacy Project: Creating Professional Online Profiles
+ Digital Literacy Project: Creating Professional Online Profiles
 
-📌 Project Overview
+ Project Overview
 
 This project focuses on developing digital literacy by creating professional profiles on platforms like GitHub, Kaggle, and LinkedIn. These platforms help in building an online presence, showcasing skills, and connecting with professionals worldwide.
 
-🎯 Objectives
+ Objectives
 
 #To understand the importance of digital identity
 
@@ -14,9 +14,9 @@ This project focuses on developing digital literacy by creating professional pro
 
 #To enhance digital communication and technical skills
 
-🧠 Platforms Created
-
-💻 GitHub
+ Platforms Created
+ 
+ GitHub
 
 GitHub is a platform used for hosting and sharing code.
 
@@ -26,7 +26,7 @@ Learned how to create repositories
 
 Added basic project files
 
-📊 Kaggle
+Kaggle
 
 Kaggle is a platform for data science and machine learning.
 
@@ -36,7 +36,7 @@ Explored datasets and notebooks
 
 Understood how people share and analyze data
 
-💼 LinkedIn
+LinkedIn
 
 LinkedIn is a professional networking platform.
 
@@ -46,7 +46,7 @@ Added education and skills
 
 Learned how to connect with others professionally
 
-🛠️ Tools & Platforms Used
+Tools & Platforms Used
 
 GitHub
 
