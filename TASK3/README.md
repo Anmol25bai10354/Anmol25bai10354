@@ -2,13 +2,13 @@ The link for GOOGLE FORM on topic "DIGITAL LITERACY AWARENESS QUIZ" :
 
 https://forms.gle/YLh1oVgysxMvJK5eA
 
-💻 Digital Literacy Project: Skills Certification & Quiz Creation
+ Digital Literacy Project: Skills Certification & Quiz Creation
 
-📌 Project Overview
+ Project Overview
 
 This part of the Digital Literacy project focuses on enhancing practical digital skills through certification and content creation. The tasks included completing a Python Basics skill certification test and creating an online quiz to spread awareness about digital literacy.
 
-🎯 Objectives
+ Objectives
 
 1.To improve programming knowledge through certification
 
@@ -18,9 +18,9 @@ This part of the Digital Literacy project focuses on enhancing practical digital
 
 4.To develop skills in form creation and digital communication
 
-🧠 Tasks Completed
+ Tasks Completed
 
-🧾 Python Basics Certification
+ Python Basics Certification
 
 Completed the Python Basics skill test on HackerRank
 
@@ -28,7 +28,7 @@ Demonstrated understanding of basic programming concepts such as variables, loop
 
 Earned a certification as proof of coding skills
 
-📝 Digital Literacy Awareness Quiz
+ Digital Literacy Awareness Quiz
 
 Created a Google Form with 5 questions based on digital literacy
 
@@ -38,7 +38,7 @@ Focused on topics like online safety, digital tools, and responsible usage
 
 Enabled quiz features such as answer validation and scoring
 
-🛠️ Tools & Platforms Used
+ Tools & Platforms Used
 
 HackerRank (for Python certification)
 
