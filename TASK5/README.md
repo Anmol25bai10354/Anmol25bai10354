@@ -1,10 +1,10 @@
-🔐 Digital Literacy Project: Cybercrime Awareness (UPI Fraud & Online Safety)
+Digital Literacy Project: Cybercrime Awareness (UPI Fraud & Online Safety)
 
-📌 Project Overview
+Project Overview
 
 This project focuses on creating awareness about cybercrime, specifically UPI online payment fraud, and promoting safe practices on social media. It includes a case study and a prevention checklist to help individuals stay safe in the digital world.
 
-🎯 Objectives
+ Objectives
 
 1.To understand cybercrime and its 
 
@@ -14,9 +14,9 @@ This project focuses on creating awareness about cybercrime, specifically UPI on
 
 4.To provide preventive measures for social media usage
 
-🧠 Tasks Completed
+ Tasks Completed
 
-📊 Cybercrime Case Study (UPI Fraud)
+Cybercrime Case Study (UPI Fraud)
 
 Created a detailed case study using Canva
 
@@ -26,13 +26,13 @@ Highlighted consequences faced by victims
 
 Suggested preventive measures to avoid such frauds
 
-📋 Social Media Safety Checklist (Prevention Guide)
+ Social Media Safety Checklist (Prevention Guide)
 
-✔️ Dos (Stay Safe Online)
+ Dos (Stay Safe Online)
 
-❌ Don’ts
+ Don’ts
 
-🛠️ Tools & Resources Used
+ Tools & Resources Used
 
 Canva (for case study design)
 
@@ -40,13 +40,13 @@ Text Editor (.txt file for checklist)
 
 Internet research
 
-📞 Cybercrime Help & Support
+ Cybercrime Help & Support
 
 National Cybercrime Reporting Portal: https://cybercrime.gov.in
 
 Helpline Number: 1930
 
-📁 File Details
+ File Details
 
 Case Study Format: Canva Design (PDF/Image)
 
@@ -54,7 +54,7 @@ Checklist Format: .txt File
 
 Topic: UPI Fraud & Social Media Safety
 
-🚀 Learning Outcomes
+ Learning Outcomes
 
 Gained awareness about cybercrime and UPI fraud
 
